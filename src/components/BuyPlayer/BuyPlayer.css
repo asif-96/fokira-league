@@ -1,0 +1,26 @@
+.main-player{
+    width: 50%;
+    margin: 20px 0px;
+    text-align: justify;
+}
+
+.updatePlayer{
+    width: 100%;
+    padding: 30px 10px;
+    background-color: #10ac84;
+    color: white;
+}
+
+.updatePlayer h2{
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.updatePlayer p{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.updatePlayer span{
+    color: chartreuse;
+}
